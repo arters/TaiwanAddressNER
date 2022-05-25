@@ -5,6 +5,26 @@
 
 輸入一地址後，從非結構化的文本中抽取出特定意義或者指代性強的實體，並且可以按照業務需求識別出更多類別的實體。
 
+<b>地址英譯寫法 - 中華郵政</b>
+| 英文           | 縮寫    | 中文   | 英文     | 縮寫  | 中文  |
+|--------------|-------|------|--------|-----|-----|
+| City         |       | 市    | Number | No. | 號   |
+| County       |       | 縣    | Floor  | F   | 樓   |
+| Township     |       | 鄉鎮   | Room   | Rm. | 室   |
+| District     | Dist. | 區    | East   | E.  | 東   |
+| Village      | Vil.  | 村(里) | West   | W.  | 西   |
+| Neighborhood |       | 鄰    | South  | S.  | 南   |
+| Road         | Rd.   | 路    | North  | N.  | 北   |
+| Street       | St.   | 街    | First  | 1st | 一   |
+| Boulevard    | Blvd. | 大道   | Second | 2nd | 二   |
+| Section      | sec.  | 段    | Third  | 3rd | 三   |
+| Lane         | Ln.   | 巷    | Fourth | 4th | 四   |
+| Alley        | Aly.  | 弄    | Fifth  | 5th | 五   |
+| Sub-Alley    |       | 衖    |        |     |     |
+
+
+
+
 <b>範例</b>
 
 
